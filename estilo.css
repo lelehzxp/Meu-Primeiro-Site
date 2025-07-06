@@ -1,0 +1,24 @@
+     body{background-color: rgb(204, 226, 238);
+}
+     table{text-align: center;background-color: rgb(170, 119, 217);
+}
+     caption{font-size: 20px;
+}
+     th{background-color: rgb(139, 60, 213);
+}
+     h1{color: #1f5993; text-align: center;
+}
+     p{font-size: 30px; text-align: justify;
+} 
+    img{border-radius: 10px;
+}
+        .meu link:hover{
+    color:blue
+}
+
+.meu link:active{
+    color: violet;
+}
+a:hover {
+    color: violet;
+}
